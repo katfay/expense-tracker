@@ -15,9 +15,6 @@
     min-height: 10rem;
   }
 
-  .dashboard {
-  }
-
   .expense-button {
     align-self: flex-end;
   }
@@ -65,9 +62,6 @@
 
   .test-white-space {
     min-height: 2rem;
-  }
-
-  .dashboard {
   }
 
   .expense-button {
