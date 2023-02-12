@@ -2,7 +2,9 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "name": "expense-tracker",
   "version": "1.0.0",
